@@ -3,7 +3,7 @@
 
 int grey_value;
 
-void lock(int wait){
+void lock(int wait){ //wait
  
     mav(RIGHT,0);
     mav(LEFT,0);
